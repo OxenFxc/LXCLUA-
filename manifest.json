@@ -1,0 +1,18 @@
+{
+  "versionName": "4.6.0",
+  "versionCode": "4699",
+  "uses_sdk": {
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33"
+  },
+  "package": "com.difierline.lua.luaappx",
+  "application": {
+    "label": "LXCLUA",
+    "debugmode": false
+  },
+  "uses_permission": [
+  "WRITE_EXTERNAL_STORAGE",
+  "READ_EXTERNAL_STORAGE",
+  "INTERNET"
+  ]
+}
